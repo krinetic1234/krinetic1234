@@ -16,4 +16,4 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=krinetic1234&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" /> -->
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=krinetic1234&color=green)
