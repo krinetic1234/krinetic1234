@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on biosignal and video analysis 
-- 🌱 I’m currently learning more about sequence-based models 
+- 🌱 I’m currently learning more about sequence-based AI models 
 - 💬 Ask me anything about AI, app development, or sports
 - 📫 How to reach me: krishmaniar4@gmail.com
 - 😄 Pronouns: He/Him
