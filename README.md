@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on biosignal and video analysis 
+- 🔭 I’m currently working on biosignal, video, and passive data analysis
 - 📫 How to reach me: krishmaniar4@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run App Dev League (https://appdevleague.org/)
