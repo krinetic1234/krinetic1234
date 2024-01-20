@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on digital phenotyping, LLMs, and Web3 applications
+- 🔭 I’m currently working on AI consumer/prosumer and digital phenotyping applications
 - 📫 How to reach me: kmaniar@stanford.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run App Dev League (https://appdevleague.org/)
